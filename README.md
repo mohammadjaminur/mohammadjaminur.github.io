@@ -1,1 +1,2 @@
-## Graduate Research Assistant at the University of California Riverside
+## Graduate Research Assistant
+University of California Riverside
