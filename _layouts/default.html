@@ -3,13 +3,19 @@
 <head>
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
-
 </head>
 <body>
-    {% include header.html %}
-    <div class="content">
+    <header>
+        <nav>
+            <ul>
+                <li><a href="{{ site.baseurl }}">Home</a></li>
+                <li><a href="{{ site.baseurl }}/about/">About</a></li>
+                <!-- Add more menu items as needed -->
+            </ul>
+        </nav>
+    </header>
+    <main>
         {{ content }}
-    </div>
+    </main>
 </body>
 </html>
-
