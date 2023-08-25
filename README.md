@@ -1,1 +1,1 @@
-# mji.io
+## Graduate Research Assistant at University of California Riverside
