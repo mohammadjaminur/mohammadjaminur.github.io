@@ -4,11 +4,11 @@ body {
     margin: 0;
     padding: 0;
 }
-
 header {
     background-color: #333;
     color: #fff;
     padding: 10px;
+    text-align: center; /* Center-align the header content */
 }
 
 nav ul {
@@ -31,3 +31,15 @@ main {
     padding: 20px;
 }
 
+/* Add this section to your style.css */
+@media screen and (max-width: 768px) {
+    nav ul {
+        display: block; /* Display the menu items as a block on smaller screens */
+        text-align: center; /* Center-align the menu items on smaller screens */
+    }
+
+    nav li {
+        display: block;
+        margin: 10px 0; /* Add some space between menu items on smaller screens */
+    }
+}
