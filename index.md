@@ -2,17 +2,17 @@
 layout: default
 title: Home
 layout_class: home
-description: Ph.D. student at UC Riverside working on network security.
+description: Ph.D. student at UC Riverside working on network measurement and security.
 ---
 
 <div class="wrap wrap-wide">
-  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions in network security and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
 
   <section class="profile">
     <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
-      <p class="profile-pitch">I study how malware commands infected machines without tripping any alarms — and build the systems that catch it anyway.</p>
+      <p class="profile-pitch">I build data-driven systems that measure and probe networks smarter — mapping infrastructure through DNS and fingerprinting servers to flag what's likely malicious.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
       <div class="stat-row">
@@ -30,12 +30,12 @@ description: Ph.D. student at UC Riverside working on network security.
         </div>
       </div>
 
-      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on network security — using behavioral and spatial-temporal analysis to catch command-and-control (C2) traffic that's built to look ordinary. I've also published with Dr.&nbsp;Shaolei Ren on the equity and sustainability costs of generative AI.</p>
+      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on network-aware probing recommendation and anomaly detection, combining active and passive DNS (aDNS, pDNS) with server-side fingerprint analysis to explain why infrastructure is likely malicious — including malware command-and-control (C2) traffic hiding in ordinary-looking activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
       <p class="tag-row">
-        <span class="tag">Network Security</span>
-        <span class="tag">Malware C2 Detection</span>
-        <span class="tag">Responsible &amp; Sustainable AI</span>
+        <span class="tag">Network Measurement</span>
+        <span class="tag">DNS &amp; Fingerprinting</span>
         <span class="tag">Anomaly Detection</span>
+        <span class="tag">Responsible &amp; Sustainable AI</span>
       </p>
     </div>
   </section>
@@ -43,12 +43,12 @@ description: Ph.D. student at UC Riverside working on network security.
   <h2>Research highlights</h2>
   <ul class="highlight-list">
     <li>
-      <strong>Network security</strong>
-      <p>Malware C2 detection and mitigation through behavioral signals and spatial-temporal network analysis.</p>
+      <strong>Network measurement &amp; security</strong>
+      <p>Data-driven probing recommendation and anomaly detection, combining active/passive DNS (aDNS, pDNS) with server-side fingerprinting to explain likely maliciousness — including malware C2 traffic.</p>
     </li>
     <li>
       <strong>Responsible AI <span style="font-weight:500;color:var(--muted)">(with Dr.&nbsp;Shaolei Ren)</span></strong>
-      <p>Equity-aware sustainable AI data centers, and environmental footprints of generative AI inference (cloud vs. edge).</p>
+      <p>Cost-aware sustainable AI data centers, minimizing environmental and public-health costs, and environmental footprints of generative AI inference (cloud vs. edge).</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/research/' | relative_url }}">Research themes →</a>

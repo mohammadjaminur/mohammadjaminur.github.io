@@ -7,11 +7,11 @@ description: Bio, education, awards, and experience for Mohammad Jaminur Islam.
 <div class="wrap">
   <p class="kicker">About</p>
   <h1>About me</h1>
-  <p class="lede">I'm a Ph.D. student in Computer Science at UC Riverside, advised by Dr.&nbsp;Michalis Faloutsos. My research is network security: catching malware command-and-control (C2) traffic that's built to blend into everything around it, using behavioral and spatial-temporal analysis.</p>
+  <p class="lede">I'm a Ph.D. student in Computer Science at UC Riverside, advised by Dr.&nbsp;Michalis Faloutsos. My research is network measurement and security: building data-driven systems for network-aware probing recommendation and anomaly detection, and combining active and passive DNS (aDNS, pDNS) with server-side fingerprint analysis to explain why a piece of infrastructure is likely malicious — work that includes catching malware command-and-control (C2) traffic hiding inside ordinary-looking network activity.</p>
 
-  <p>Earlier in my Ph.D., I worked with Dr.&nbsp;Shaolei Ren on Responsible AI — measuring and designing around the equity and sustainability costs of generative-AI inference and data-center operations. Before UCR, my M.S. at Western Michigan University (2021) applied the same instinct to secure cyber-physical and smart-grid systems, under Dr.&nbsp;Shameek Bhattacharjee. I hold a B.Sc. in Computer Science and Engineering from BUET (2016), and spent three years as a Software Engineer at Reve Systems in Dhaka before returning to grad school.</p>
+  <p>Earlier in my Ph.D., I worked with Dr.&nbsp;Shaolei Ren on Responsible AI — cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of running AI data centers and generative-AI inference. Before UCR, my M.S. at Western Michigan University (2021) applied the same data-driven, anomaly-detection instinct to secure cyber-physical and smart-grid systems, under Dr.&nbsp;Shameek Bhattacharjee. I hold a B.Sc. in Computer Science and Engineering from BUET (2016), and spent three years as a Software Engineer at Reve Systems in Dhaka before returning to grad school.</p>
 
-  <p>I'm on the job market now for postdoctoral and research-scientist roles in network security and trustworthy AI — labs working on adversarial robustness, large-scale anomaly detection, or the security of deployed ML systems are exactly where I want to land next.</p>
+  <p>I'm on the job market now for postdoctoral and research-scientist roles in network measurement, security, and trustworthy AI — labs working on network-scale measurement systems, large-scale anomaly detection, or the security of deployed ML systems are exactly where I want to land next.</p>
 
   <h2>Education</h2>
   <ul class="timeline">
@@ -51,7 +51,7 @@ description: Bio, education, awards, and experience for Mohammad Jaminur Islam.
     <li>
       <span class="when">Fall 2022 – Present</span>
       <p class="what">Graduate Research Assistant</p>
-      <p class="detail">UC Riverside · Network security (C2 detection) with Dr.&nbsp;Faloutsos; prior collaboration on Responsible AI with Dr.&nbsp;Ren. Teaching history is under <a href="{{ '/teaching/' | relative_url }}">Teaching</a>.</p>
+      <p class="detail">UC Riverside · Network measurement &amp; security (probing recommendation, DNS/fingerprint-based infrastructure analysis, C2 detection) with Dr.&nbsp;Faloutsos; prior collaboration on Responsible AI with Dr.&nbsp;Ren. Teaching history is under <a href="{{ '/teaching/' | relative_url }}">Teaching</a>.</p>
     </li>
     <li>
       <span class="when">Fall 2019 – Spring 2021</span>
