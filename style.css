@@ -487,64 +487,6 @@ a:hover { color: var(--ink); }
   color: var(--muted);
   margin: 0 0 0.75rem;
 }
-.syllabus-details {
-  margin-top: 0.6rem;
-}
-.syllabus-details summary {
-  cursor: pointer;
-  font-weight: 700;
-  font-size: 0.8rem;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  color: var(--accent);
-  list-style: none;
-}
-.syllabus-details summary::-webkit-details-marker { display: none; }
-.syllabus-details summary::before { content: "+ "; }
-.syllabus-details[open] summary::before { content: "\2212 "; }
-.syllabus-details .topic-list { margin-top: 0.75rem; }
-
-.topic-list {
-  list-style: none;
-  margin: 0.75rem 0 1.1rem;
-  padding: 0;
-}
-.topic-list li {
-  display: grid;
-  grid-template-columns: 7.25rem 1fr;
-  align-items: baseline;
-  gap: 0.1rem 0.6rem;
-  padding: 0.45rem 0;
-  border-top: 1px dashed var(--line);
-  color: var(--ink);
-  font-size: 0.96rem;
-}
-.topic-list li:first-child { border-top: 0; }
-.topic-list .step {
-  font-weight: 700;
-  color: var(--accent);
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.03em;
-  line-height: 1.3;
-}
-
-@media (max-width: 560px) {
-  .topic-list li { grid-template-columns: 1fr; gap: 0.15rem; }
-}
-
-.guest-badge {
-  display: inline-block;
-  margin-left: 0.15rem;
-  padding: 0.08rem 0.5rem;
-  border-radius: 999px;
-  background: var(--accent-soft);
-  color: var(--accent);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
 /* Teaching terms */
 
 .term-list .term {

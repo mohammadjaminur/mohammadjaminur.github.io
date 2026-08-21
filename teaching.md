@@ -1,46 +1,26 @@
 ---
 layout: default
 title: Teaching
-description: Teaching experience — discussion sections, lab instruction, and guest lectures at UC Riverside.
+description: Teaching experience, discussion sections, lab instruction, and guest lectures at UC Riverside.
 ---
 
 <div class="wrap wrap-wide">
   <p class="kicker">Teaching</p>
   <h1>Teaching experience</h1>
-  <p class="lede">Graduate Teaching Assistant at UC Riverside since Fall 2022 — running discussion sections and lab instruction across six courses, and twice invited to guest lecture on deep learning topics.</p>
+  <p class="lede">Graduate Teaching Assistant at UC Riverside since Fall 2022, running discussion sections and lab instruction across six courses, and twice invited to guest lecture on deep learning topics.</p>
 
   <h2>Course highlights</h2>
 
   <div class="course-block">
     <h3><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</h3>
     <p class="meta">Discussion sections · 7 terms, Fall 2022 – Summer 2026</p>
-    <p>Standard offerings (Fall 2022 – Spring 2025) covered a classical AI curriculum — search and A*, adversarial games, constraint satisfaction (including simulated annealing), MDPs, reinforcement learning, and probabilistic reasoning. My own sections leaned hardest on <strong>search and constraint satisfaction</strong>. The Summer 2026 offering was rebuilt entirely around reinforcement learning, capped with a guest lecture on deep neural networks.</p>
-    <details class="syllabus-details">
-      <summary>Summer 2026 weekly breakdown</summary>
-      <ul class="topic-list">
-        <li><span class="step">Week 1</span> RL foundations and multi-armed bandits</li>
-        <li><span class="step">Week 2</span> Markov decision processes, dynamic programming, model-free prediction</li>
-        <li><span class="step">Week 3</span> Model-free control</li>
-        <li><span class="step">Week 4</span> Deep neural networks <span class="guest-badge">Guest lecture</span></li>
-        <li><span class="step">Week 5</span> Value function approximation, learning from demonstration</li>
-      </ul>
-    </details>
+    <p>Standard offerings (Fall 2022 – Spring 2025) covered a classical AI curriculum, including search and A*, adversarial games, constraint satisfaction (including simulated annealing), MDPs, reinforcement learning, and probabilistic reasoning. My own sections leaned hardest on <strong>search and constraint satisfaction</strong>. The Summer 2026 offering was rebuilt entirely around reinforcement learning, capped with a guest lecture on deep neural networks.</p>
   </div>
 
   <div class="course-block">
     <h3><span class="course-code">CS 105</span> — Data Analysis Methods</h3>
     <p class="meta">Lab instruction · Summer 2026 &amp; Spring 2026</p>
-    <p>Weekly labs built a practical data-science toolkit — statistics and exploratory data analysis, k-nearest neighbors and clustering, through to unsupervised deep learning. Guest-lectured twice: on deep neural networks, and on generative models (GANs and autoencoders).</p>
-    <details class="syllabus-details">
-      <summary>Weekly breakdown</summary>
-      <ul class="topic-list">
-        <li><span class="step">Week 1</span> Statistics &amp; probability for data science; data collection and cleaning</li>
-        <li><span class="step">Week 2</span> Data integration and transformation; dimensionality reduction; exploratory data analysis</li>
-        <li><span class="step">Week 3</span> Exploratory data analysis (cont.); mathematical models in data science</li>
-        <li><span class="step">Week 4</span> K-nearest neighbors; clustering; deep neural networks <span class="guest-badge">Guest lecture</span></li>
-        <li><span class="step">Week 5</span> Unsupervised learning — generative models: GANs &amp; autoencoders <span class="guest-badge">Guest lecture</span></li>
-      </ul>
-    </details>
+    <p>Weekly labs built a practical data-science toolkit, from statistics and exploratory data analysis to k-nearest neighbors, clustering, and unsupervised deep learning. Guest-lectured twice: on deep neural networks, and on generative models (GANs and autoencoders).</p>
   </div>
 
   <h2>Appointments</h2>

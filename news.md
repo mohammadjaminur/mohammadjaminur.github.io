@@ -26,7 +26,7 @@ description: News, awards, and activity timeline for Mohammad Jaminur Islam.
       </tr>
       <tr>
         <td class="news-date">2025</td>
-        <td class="news-body">SIGMETRICS AI Crossroads workshop acceptance — environmental footprints of generative AI inference.</td>
+        <td class="news-body">Paper on environmental footprints of generative AI inference accepted at the SIGMETRICS AI Crossroads workshop.</td>
       </tr>
       <tr>
         <td class="news-date">2025</td>
@@ -34,11 +34,11 @@ description: News, awards, and activity timeline for Mohammad Jaminur Islam.
       </tr>
       <tr>
         <td class="news-date">2024</td>
-        <td class="news-body">NeurIPS Climate Change AI workshop acceptance — equity-aware workload shifting for sustainable AI data centers.</td>
+        <td class="news-body">Paper on equity-aware workload shifting for sustainable AI data centers accepted at the NeurIPS Climate Change AI workshop.</td>
       </tr>
       <tr>
         <td class="news-date">2024</td>
-        <td class="news-body">ACM SIGMETRICS 2024 publication — online allocation with replenishable budgets.</td>
+        <td class="news-body"><em>Online Allocation with Replenishable Budgets</em> published at ACM SIGMETRICS 2024.</td>
       </tr>
       <tr>
         <td class="news-date">Fall 2022</td>
@@ -50,7 +50,7 @@ description: News, awards, and activity timeline for Mohammad Jaminur Islam.
       </tr>
       <tr>
         <td class="news-date">2016</td>
-        <td class="news-body">Best Undergraduate Thesis Award — placed 9th out of 60 groups at BUET.</td>
+        <td class="news-body">Earned the Best Undergraduate Thesis Award, placing 9th out of 60 groups at BUET.</td>
       </tr>
     </tbody>
   </table>

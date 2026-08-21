@@ -14,22 +14,22 @@ description: Featured and full publications for Mohammad Jaminur Islam.
     <li>
       <span class="venue-tag">ICCPS 2022 · Best Paper Nominee</span>
       <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems</p>
-      <p class="pub-note">CPS / security direction — large-scale anomaly detection for smart transportation.</p>
+      <p class="pub-note">Large-scale anomaly detection for smart transportation systems.</p>
     </li>
     <li>
       <span class="venue-tag">NeurIPS · Climate Change AI Workshop</span>
       <p class="pub-title">Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</p>
-      <p class="pub-note">Responsible AI — equity and sustainability for AI data centers.</p>
+      <p class="pub-note">Equity and sustainability for AI data centers.</p>
     </li>
     <li>
       <span class="venue-tag">ACM SIGMETRICS · AI Crossroads Workshop</span>
       <p class="pub-title">A Case Study of Environmental Footprints for Generative AI Inference: Cloud versus Edge</p>
-      <p class="pub-note">Systems / footprint — energy and carbon of GenAI inference on cloud vs. edge.</p>
+      <p class="pub-note">Energy and carbon costs of generative-AI inference on cloud vs. edge.</p>
     </li>
     <li>
       <span class="venue-tag">ACM SIGMETRICS 2024</span>
       <p class="pub-title">Online Allocation with Replenishable Budgets: Worst Case and Beyond</p>
-      <p class="pub-note">Flagship venue — online allocation under replenishable budget constraints.</p>
+      <p class="pub-note">Online allocation under replenishable budget constraints, at a flagship venue.</p>
     </li>
   </ul>
 

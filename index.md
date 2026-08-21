@@ -7,16 +7,16 @@ description: Ph.D. student at UC Riverside working on network measurement and se
 
 <div class="wrap wrap-wide">
   <section class="hero-card">
-    <p class="job-banner">Open to <strong>academic</strong> and <strong>industry</strong> roles — postdoctoral, <strong>AI Engineer</strong>, and <strong>Applied Scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+    <p class="job-banner">Open to <strong>academic</strong> and <strong>industry</strong> roles, postdoctoral, <strong>AI Engineer</strong>, and <strong>Applied Scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
 
     <div class="profile">
     <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
-      <p class="profile-pitch">I build network and control systems that turn data into informed decisions — for operational security, and for the cost of running them responsibly.</p>
+      <p class="profile-pitch">I build network and control systems that turn data into informed decisions, for operational security, and for the cost of running them responsibly.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
-      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on data-driven network measurement and security — including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
+      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on data-driven network measurement and security, including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
       <p class="tag-row">
         <span class="tag">Network Measurement</span>
         <span class="tag">DNS &amp; Fingerprinting</span>
@@ -31,7 +31,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <ul class="highlight-list">
     <li>
       <strong>Network measurement &amp; security</strong>
-      <p>Data-driven probing recommendation and anomaly detection, combining active/passive DNS (aDNS, pDNS) with server-side fingerprinting to explain likely maliciousness — including malware C2 traffic.</p>
+      <p>Data-driven probing recommendation and anomaly detection, combining active/passive DNS (aDNS, pDNS) with server-side fingerprinting to explain likely maliciousness, including malware C2 traffic.</p>
     </li>
     <li>
       <strong>Responsible AI <span style="font-weight:500;color:var(--muted)">(with Dr.&nbsp;Shaolei Ren)</span></strong>
@@ -45,17 +45,17 @@ description: Ph.D. student at UC Riverside working on network measurement and se
     <li>
       <span class="venue-tag">ICCPS 2022 · Best Paper Nominee</span>
       <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems</p>
-      <p class="pub-note">CPS / security — large-scale anomaly detection for smart transportation.</p>
+      <p class="pub-note">Large-scale anomaly detection for smart transportation systems.</p>
     </li>
     <li>
       <span class="venue-tag">NeurIPS · CCAI Workshop</span>
       <p class="pub-title">Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</p>
-      <p class="pub-note">Responsible AI — equity and sustainability in AI data-center operations.</p>
+      <p class="pub-note">Equity and sustainability in AI data-center operations.</p>
     </li>
     <li>
       <span class="venue-tag">ACM SIGMETRICS 2024</span>
       <p class="pub-title">Online Allocation with Replenishable Budgets: Worst Case and Beyond</p>
-      <p class="pub-note">Flagship venue — online allocation under replenishable budgets.</p>
+      <p class="pub-note">Online allocation under replenishable budgets, at a flagship venue.</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/publications/' | relative_url }}">All publications →</a>
@@ -87,7 +87,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <ul class="highlight-list">
     <li>
       <strong>Discussion sections &amp; lab instruction</strong>
-      <p><span class="course-code">CS 170</span> (search &amp; A* in standard terms; reinforcement learning in the Summer 2026 offering) and <span class="course-code">CS 105</span> (statistics, EDA, k-NN, clustering, unsupervised learning) — plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
+      <p><span class="course-code">CS 170</span> (search &amp; A* in standard terms; reinforcement learning in the Summer 2026 offering) and <span class="course-code">CS 105</span> (statistics, EDA, k-NN, clustering, unsupervised learning), plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
