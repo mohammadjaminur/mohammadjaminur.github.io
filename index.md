@@ -62,7 +62,7 @@ description: Ph.D. student at UC Riverside working on network security.
   <ul class="highlight-list">
     <li>
       <strong>Discussion sections &amp; lab instruction</strong>
-      <p><span class="course-code">CS 170</span> (search, A*, simulated annealing) and <span class="course-code">CS 105</span> (EDA, k-NN, clustering, PCA, gradient descent) — plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
+      <p><span class="course-code">CS 170</span> (search &amp; A* in standard terms; reinforcement learning in the Summer 2026 offering) and <span class="course-code">CS 105</span> (statistics, EDA, k-NN, clustering, unsupervised learning) — plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
