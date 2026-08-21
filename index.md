@@ -6,9 +6,10 @@ description: Ph.D. student at UC Riverside working on network measurement and se
 ---
 
 <div class="wrap wrap-wide">
-  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+  <section class="hero-card">
+    <p class="job-banner">Open to <strong>academic</strong> and <strong>industry</strong> roles — postdoctoral, <strong>AI Engineer</strong>, and <strong>Applied Scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
 
-  <section class="profile">
+    <div class="profile">
     <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
@@ -38,6 +39,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
         <span class="tag">Responsible &amp; Sustainable AI</span>
       </p>
     </div>
+    </div>
   </section>
 
   <h2>Research highlights</h2>
@@ -56,8 +58,8 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <h2>Selected publications</h2>
   <ul class="featured-list">
     <li>
-      <span class="venue-tag">ICCPS 2022</span>
-      <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems <span class="badge">Best Paper Nominee</span></p>
+      <span class="venue-tag">ICCPS 2022 · Best Paper Nominee</span>
+      <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems</p>
       <p class="pub-note">CPS / security — large-scale anomaly detection for smart transportation.</p>
     </li>
     <li>

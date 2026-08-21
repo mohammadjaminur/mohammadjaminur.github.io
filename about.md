@@ -11,7 +11,7 @@ description: Bio, education, awards, and experience for Mohammad Jaminur Islam.
 
   <p>Earlier in my Ph.D., I worked with Dr.&nbsp;Shaolei Ren on Responsible AI — cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of running AI data centers and generative-AI inference. Before UCR, my M.S. at Western Michigan University (2021) applied the same data-driven, anomaly-detection instinct to secure cyber-physical and smart-grid systems, under Dr.&nbsp;Shameek Bhattacharjee. I hold a B.Sc. in Computer Science and Engineering from BUET (2016), and spent three years as a Software Engineer at Reve Systems in Dhaka before returning to grad school.</p>
 
-  <p>I'm on the job market now for postdoctoral and research-scientist roles in network measurement, security, and trustworthy AI — labs working on network-scale measurement systems, large-scale anomaly detection, or the security of deployed ML systems are exactly where I want to land next.</p>
+  <p>I'm on the job market now — open to academic and industry roles alike: postdoctoral positions, or AI Engineer / Applied Scientist roles, in network measurement, security, and trustworthy AI. Teams working on network-scale measurement systems, large-scale anomaly detection, or the security of deployed ML systems are exactly where I want to land next.</p>
 
   <h2>Education</h2>
   <ul class="timeline">

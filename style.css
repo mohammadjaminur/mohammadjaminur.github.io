@@ -198,16 +198,23 @@ h3 {
 a { color: var(--accent); text-underline-offset: 0.12em; }
 a:hover { color: var(--ink); }
 
-/* Job market banner */
+/* Hero card (job banner + profile, unified) */
+
+.hero-card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 0.75rem;
+  padding: 1.5rem 1.75rem 1.75rem;
+  margin-bottom: 2rem;
+  box-shadow: 0 1px 2px rgba(20, 30, 45, 0.04);
+}
 
 .job-banner {
-  margin: 0 0 1.75rem;
-  padding: 0.7rem 1rem;
-  border-left: 3px solid var(--accent);
-  background: var(--accent-soft);
-  border-radius: 0 0.4rem 0.4rem 0;
-  font-size: 0.94rem;
-  color: var(--ink);
+  margin: 0 0 1.25rem;
+  padding: 0 0 1.1rem;
+  border-bottom: 1px solid var(--line);
+  font-size: 0.92rem;
+  color: var(--muted);
 }
 .job-banner strong { color: var(--accent); }
 
@@ -217,9 +224,6 @@ a:hover { color: var(--ink); }
   display: flex;
   align-items: flex-start;
   gap: 1.75rem;
-  margin-bottom: 2rem;
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid var(--line);
 }
 .profile > div { flex: 1 1 auto; min-width: 0; }
 
@@ -233,6 +237,7 @@ a:hover { color: var(--ink); }
 .avatar-lg { width: 160px; height: 160px; }
 
 @media (max-width: 640px) {
+  .hero-card { padding: 1.25rem 1.1rem 1.5rem; }
   .profile { flex-direction: column; }
   .avatar-lg { width: 108px; height: 108px; }
 }
