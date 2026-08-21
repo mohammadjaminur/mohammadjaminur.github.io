@@ -214,11 +214,27 @@ a:hover { color: var(--ink); }
 /* Home profile */
 
 .profile {
-  display: grid;
-  gap: 1.25rem;
+  display: flex;
+  align-items: flex-start;
+  gap: 1.75rem;
   margin-bottom: 2rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--line);
+}
+.profile > div { flex: 1 1 auto; min-width: 0; }
+
+.avatar {
+  flex-shrink: 0;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--surface);
+  box-shadow: 0 0 0 1px var(--line);
+}
+.avatar-lg { width: 160px; height: 160px; }
+
+@media (max-width: 640px) {
+  .profile { flex-direction: column; }
+  .avatar-lg { width: 108px; height: 108px; }
 }
 
 .tag-row {
@@ -545,7 +561,6 @@ a:hover { color: var(--ink); }
   font-size: 0.9rem;
 }
 .footer-inner p { margin: 0.15rem 0; }
-.footer-note { font-size: 0.82rem; }
 
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(8px); }

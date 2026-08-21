@@ -6,9 +6,10 @@ description: Ph.D. student at UC Riverside working on network security.
 ---
 
 <div class="wrap wrap-wide">
-  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions in network security and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
 
   <section class="profile">
+    <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
@@ -34,6 +35,26 @@ description: Ph.D. student at UC Riverside working on network security.
     </li>
   </ul>
   <a class="more-link" href="{{ '/research/' | relative_url }}">Research themes →</a>
+
+  <h2>Selected publications</h2>
+  <ul class="featured-list">
+    <li>
+      <span class="venue-tag">ICCPS 2022</span>
+      <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems <span class="badge">Best Paper Nominee</span></p>
+      <p class="pub-note">CPS / security — large-scale anomaly detection for smart transportation.</p>
+    </li>
+    <li>
+      <span class="venue-tag">NeurIPS · CCAI Workshop</span>
+      <p class="pub-title">Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</p>
+      <p class="pub-note">Responsible AI — equity and sustainability in AI data-center operations.</p>
+    </li>
+    <li>
+      <span class="venue-tag">ACM SIGMETRICS 2024</span>
+      <p class="pub-title">Online Allocation with Replenishable Budgets: Worst Case and Beyond</p>
+      <p class="pub-note">Flagship venue — online allocation under replenishable budgets.</p>
+    </li>
+  </ul>
+  <a class="more-link" href="{{ '/publications/' | relative_url }}">All publications →</a>
 
   <h2>News</h2>
   <table class="news-table">
@@ -66,24 +87,4 @@ description: Ph.D. student at UC Riverside working on network security.
     </li>
   </ul>
   <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
-
-  <h2>Selected publications</h2>
-  <ul class="featured-list">
-    <li>
-      <span class="venue-tag">ICCPS 2022</span>
-      <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems <span class="badge">Best Paper Nominee</span></p>
-      <p class="pub-note">CPS / security — large-scale anomaly detection for smart transportation.</p>
-    </li>
-    <li>
-      <span class="venue-tag">NeurIPS · CCAI Workshop</span>
-      <p class="pub-title">Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</p>
-      <p class="pub-note">Responsible AI — equity and sustainability in AI data-center operations.</p>
-    </li>
-    <li>
-      <span class="venue-tag">ACM SIGMETRICS 2024</span>
-      <p class="pub-title">Online Allocation with Replenishable Budgets: Worst Case and Beyond</p>
-      <p class="pub-note">Flagship venue — online allocation under replenishable budgets.</p>
-    </li>
-  </ul>
-  <a class="more-link" href="{{ '/publications/' | relative_url }}">All publications →</a>
 </div>

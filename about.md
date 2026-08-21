@@ -7,9 +7,11 @@ description: Bio, education, awards, and experience for Mohammad Jaminur Islam.
 <div class="wrap">
   <p class="kicker">About</p>
   <h1>About me</h1>
-  <p class="lede">Ph.D. student in Computer Science at UC Riverside, advised by Dr.&nbsp;Michalis Faloutsos. I study network security, especially malware command-and-control (C2) detection and mitigation.</p>
+  <p class="lede">The thread running through my Ph.D. is the same one from my M.S.: how do you tell a real, adversarial signal apart from ordinary noise? At UC Riverside, that question is malware command-and-control (C2) infrastructure hiding inside legitimate-looking network traffic — my main project with Dr.&nbsp;Michalis Faloutsos.</p>
 
-  <p>Earlier in my Ph.D., I collaborated with Dr.&nbsp;Shaolei Ren on Responsible AI and sustainable computing. Before UCR, I earned an M.S. in Computer Science from Western Michigan University (2021), researching secure cyber-physical systems under Dr.&nbsp;Shameek Bhattacharjee. I completed my B.Sc. in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET) in 2016, and worked as a Software Engineer at Reve Systems (Dhaka) from 2016 to 2019.</p>
+  <p>Alongside that, I spent a stretch of my Ph.D. working with Dr.&nbsp;Shaolei Ren on a different kind of system risk — the equity and sustainability costs that sustainable AI data centers and generative-AI inference create, and how to design around them responsibly. Before UCR, my M.S. at Western Michigan University (2021) applied the same anomaly-detection instinct to secure cyber-physical and smart-grid systems, under Dr.&nbsp;Shameek Bhattacharjee. Earlier still, I spent three years as a Software Engineer at Reve Systems (Dhaka), after a B.Sc. in Computer Science and Engineering at Bangladesh University of Engineering and Technology (BUET, 2016).</p>
+
+  <p>Looking ahead, I'm looking for a postdoctoral or research-scientist role that lets me keep working at that intersection — turning behavioral and spatial-temporal signals into practical defenses against network threats, with an eye toward the broader trustworthy-AI question of how ML-based systems fail under adversarial pressure. Labs working on adversarial robustness, large-scale anomaly detection, or the security of deployed ML systems are exactly where I'd want to land next.</p>
 
   <h2>Education</h2>
   <ul class="timeline">

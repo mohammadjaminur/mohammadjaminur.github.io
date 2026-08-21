@@ -142,6 +142,8 @@ def build() -> None:
 
     # Copy CSS
     shutil.copy2(ROOT / "style.css", out_root / "style.css")
+    if (ROOT / "profile.jpg").exists():
+        shutil.copy2(ROOT / "profile.jpg", out_root / "profile.jpg")
 
     pages = [
         ("index.md", "/", "index.html"),
