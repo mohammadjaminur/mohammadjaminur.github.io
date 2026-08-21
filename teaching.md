@@ -14,40 +14,33 @@ description: Teaching experience — discussion sections, lab instruction, and g
   <div class="course-block">
     <h3><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</h3>
     <p class="meta">Discussion sections · 7 terms, Fall 2022 – Summer 2026</p>
-    <p>Taught across two quite different versions of the course.</p>
-
-    <p><strong>Standard offerings</strong> <span class="sub-meta">(Fall 2022 – Spring 2025)</span> — a classical AI curriculum; discussion sections were coordinated with lecture to work problem sets across:</p>
-    <ul class="topic-list">
-      <li><span class="step">Search</span> Uninformed search (DFS, BFS, UCS) and informed search — greedy best-first, A*, admissible heuristics</li>
-      <li><span class="step">Games</span> Adversarial search — minimax, alpha-beta pruning, expectimax</li>
-      <li><span class="step">CSPs</span> Backtracking search, arc consistency, and local search methods such as simulated annealing</li>
-      <li><span class="step">MDPs</span> Value iteration, policy evaluation and policy iteration</li>
-      <li><span class="step">Reinforcement learning</span> Monte Carlo methods, temporal-difference learning (SARSA, Q-learning)</li>
-      <li><span class="step">Probabilistic reasoning</span> Bayesian networks, (hidden) Markov models, particle filtering</li>
-    </ul>
-    <p>My own sections leaned hardest on <strong>search and constraint satisfaction</strong> — A* search and local search methods such as simulated annealing were the recurring problem-solving core each week.</p>
-
-    <p><strong>Summer 2026</strong> <span class="sub-meta">(rebuilt around reinforcement learning)</span> — weekly breakdown:</p>
-    <ul class="topic-list">
-      <li><span class="step">Week 1</span> RL foundations and multi-armed bandits</li>
-      <li><span class="step">Week 2</span> Markov decision processes, dynamic programming, model-free prediction</li>
-      <li><span class="step">Week 3</span> Model-free control</li>
-      <li><span class="step">Week 4</span> Deep neural networks <span class="guest-badge">Guest lecture</span></li>
-      <li><span class="step">Week 5</span> Value function approximation, learning from demonstration</li>
-    </ul>
+    <p>Standard offerings (Fall 2022 – Spring 2025) covered a classical AI curriculum — search and A*, adversarial games, constraint satisfaction (including simulated annealing), MDPs, reinforcement learning, and probabilistic reasoning. My own sections leaned hardest on <strong>search and constraint satisfaction</strong>. The Summer 2026 offering was rebuilt entirely around reinforcement learning, capped with a guest lecture on deep neural networks.</p>
+    <details class="syllabus-details">
+      <summary>Summer 2026 weekly breakdown</summary>
+      <ul class="topic-list">
+        <li><span class="step">Week 1</span> RL foundations and multi-armed bandits</li>
+        <li><span class="step">Week 2</span> Markov decision processes, dynamic programming, model-free prediction</li>
+        <li><span class="step">Week 3</span> Model-free control</li>
+        <li><span class="step">Week 4</span> Deep neural networks <span class="guest-badge">Guest lecture</span></li>
+        <li><span class="step">Week 5</span> Value function approximation, learning from demonstration</li>
+      </ul>
+    </details>
   </div>
 
   <div class="course-block">
     <h3><span class="course-code">CS 105</span> — Data Analysis Methods</h3>
     <p class="meta">Lab instruction · Summer 2026 &amp; Spring 2026</p>
-    <p>Ran weekly lab sessions building up a practical data-science toolkit, from statistics through unsupervised deep learning:</p>
-    <ul class="topic-list">
-      <li><span class="step">Week 1</span> Statistics &amp; probability for data science; data collection and cleaning</li>
-      <li><span class="step">Week 2</span> Data integration and transformation; dimensionality reduction; exploratory data analysis</li>
-      <li><span class="step">Week 3</span> Exploratory data analysis (cont.); mathematical models in data science</li>
-      <li><span class="step">Week 4</span> K-nearest neighbors; clustering; deep neural networks <span class="guest-badge">Guest lecture</span></li>
-      <li><span class="step">Week 5</span> Unsupervised learning — generative models: GANs &amp; autoencoders <span class="guest-badge">Guest lecture</span></li>
-    </ul>
+    <p>Weekly labs built a practical data-science toolkit — statistics and exploratory data analysis, k-nearest neighbors and clustering, through to unsupervised deep learning. Guest-lectured twice: on deep neural networks, and on generative models (GANs and autoencoders).</p>
+    <details class="syllabus-details">
+      <summary>Weekly breakdown</summary>
+      <ul class="topic-list">
+        <li><span class="step">Week 1</span> Statistics &amp; probability for data science; data collection and cleaning</li>
+        <li><span class="step">Week 2</span> Data integration and transformation; dimensionality reduction; exploratory data analysis</li>
+        <li><span class="step">Week 3</span> Exploratory data analysis (cont.); mathematical models in data science</li>
+        <li><span class="step">Week 4</span> K-nearest neighbors; clustering; deep neural networks <span class="guest-badge">Guest lecture</span></li>
+        <li><span class="step">Week 5</span> Unsupervised learning — generative models: GANs &amp; autoencoders <span class="guest-badge">Guest lecture</span></li>
+      </ul>
+    </details>
   </div>
 
   <h2>Appointments</h2>

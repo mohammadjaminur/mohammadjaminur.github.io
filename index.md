@@ -12,8 +12,25 @@ description: Ph.D. student at UC Riverside working on network security.
     <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
+      <p class="profile-pitch">I study how malware commands infected machines without tripping any alarms — and build the systems that catch it anyway.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
-      <p class="profile-bio">I work on <strong>network security</strong>, advised by Dr.&nbsp;Michalis Faloutsos — with a focus on detecting and mitigating malware command-and-control (C2) servers using behavioral and spatial-temporal analysis. I have also collaborated with Dr.&nbsp;Shaolei Ren on Responsible AI and sustainable computing.</p>
+
+      <div class="stat-row">
+        <div class="stat">
+          <p class="stat-value">9</p>
+          <p class="stat-label">Publications — ACM SIGMETRICS, NeurIPS, IEEE Access &amp; more</p>
+        </div>
+        <div class="stat">
+          <p class="stat-value">Best Paper Nominee</p>
+          <p class="stat-label">ACM/IEEE ICCPS 2022</p>
+        </div>
+        <div class="stat">
+          <p class="stat-value">6</p>
+          <p class="stat-label">Courses taught as TA since 2022, plus 2 guest lectures on deep learning</p>
+        </div>
+      </div>
+
+      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on network security — using behavioral and spatial-temporal analysis to catch command-and-control (C2) traffic that's built to look ordinary. I've also published with Dr.&nbsp;Shaolei Ren on the equity and sustainability costs of generative AI.</p>
       <p class="tag-row">
         <span class="tag">Network Security</span>
         <span class="tag">Malware C2 Detection</span>
