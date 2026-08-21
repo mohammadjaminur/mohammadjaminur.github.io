@@ -16,7 +16,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
       <p class="profile-pitch">I build network and control systems that turn data into informed decisions, for operational security, and for the cost of running them responsibly.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
-      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on data-driven network measurement and security, including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
+      <p class="profile-bio">I work on data-driven network measurement and security, including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity (advised by Dr.&nbsp;Michalis Faloutsos). I've also worked on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers (with Dr.&nbsp;Shaolei Ren).</p>
       <p class="tag-row">
         <span class="tag">Network Measurement</span>
         <span class="tag">DNS &amp; Fingerprinting</span>
