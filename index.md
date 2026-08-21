@@ -16,22 +16,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
       <p class="profile-pitch">I build data-driven probing-recommendation systems: deciding which hosts to actively scan next, then using DNS history (aDNS, pDNS) and server-response fingerprints to explain why a given IP is likely malicious.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
-      <div class="stat-row">
-        <div class="stat">
-          <p class="stat-value">9</p>
-          <p class="stat-label">Publications — ACM SIGMETRICS, NeurIPS, IEEE Access &amp; more</p>
-        </div>
-        <div class="stat">
-          <p class="stat-value">Best Paper Nominee</p>
-          <p class="stat-label">ACM/IEEE ICCPS 2022</p>
-        </div>
-        <div class="stat">
-          <p class="stat-value">6</p>
-          <p class="stat-label">Courses taught as TA since 2022, plus 2 guest lectures on deep learning</p>
-        </div>
-      </div>
-
-      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, this work includes catching malware command-and-control (C2) traffic that hides inside ordinary-looking network activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
+      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I work on data-driven network measurement and security — including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity. I've also published with Dr.&nbsp;Shaolei Ren on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers.</p>
       <p class="tag-row">
         <span class="tag">Network Measurement</span>
         <span class="tag">DNS &amp; Fingerprinting</span>
