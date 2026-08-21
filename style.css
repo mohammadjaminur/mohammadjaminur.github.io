@@ -198,6 +198,19 @@ h3 {
 a { color: var(--accent); text-underline-offset: 0.12em; }
 a:hover { color: var(--ink); }
 
+/* Job market banner */
+
+.job-banner {
+  margin: 0 0 1.75rem;
+  padding: 0.7rem 1rem;
+  border-left: 3px solid var(--accent);
+  background: var(--accent-soft);
+  border-radius: 0 0.4rem 0.4rem 0;
+  font-size: 0.94rem;
+  color: var(--ink);
+}
+.job-banner strong { color: var(--accent); }
+
 /* Home profile */
 
 .profile {
@@ -206,6 +219,24 @@ a:hover { color: var(--ink); }
   margin-bottom: 2rem;
   padding-bottom: 1.5rem;
   border-bottom: 1px solid var(--line);
+}
+
+.tag-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+  margin: 0.9rem 0 0;
+}
+.tag {
+  display: inline-block;
+  padding: 0.28rem 0.65rem;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--muted);
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
 }
 
 .profile-name {

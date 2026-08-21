@@ -6,11 +6,19 @@ description: Ph.D. student at UC Riverside working on network security.
 ---
 
 <div class="wrap wrap-wide">
+  <p class="job-banner">On the academic job market — seeking <strong>postdoctoral</strong> and <strong>research scientist</strong> positions, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+
   <section class="profile">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
       <p class="profile-bio">I work on <strong>network security</strong>, advised by Dr.&nbsp;Michalis Faloutsos — with a focus on detecting and mitigating malware command-and-control (C2) servers using behavioral and spatial-temporal analysis. I have also collaborated with Dr.&nbsp;Shaolei Ren on Responsible AI and sustainable computing.</p>
+      <p class="tag-row">
+        <span class="tag">Network Security</span>
+        <span class="tag">Malware C2 Detection</span>
+        <span class="tag">Responsible &amp; Sustainable AI</span>
+        <span class="tag">Anomaly Detection</span>
+      </p>
     </div>
   </section>
 
@@ -49,6 +57,15 @@ description: Ph.D. student at UC Riverside working on network security.
     </tbody>
   </table>
   <a class="more-link" href="{{ '/news/' | relative_url }}">All news &amp; timeline →</a>
+
+  <h2>Teaching</h2>
+  <ul class="highlight-list">
+    <li>
+      <strong>Discussion sections &amp; lab instruction</strong>
+      <p><span class="course-code">CS 170</span> (search, A*, simulated annealing) and <span class="course-code">CS 105</span> (EDA, k-NN, clustering, PCA, gradient descent) — plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
+    </li>
+  </ul>
+  <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
 
   <h2>Selected publications</h2>
   <ul class="featured-list">

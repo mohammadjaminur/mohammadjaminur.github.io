@@ -60,7 +60,7 @@ description: News, awards, and activity timeline for Mohammad Jaminur Islam.
     <li>
       <span class="when">2022 – Present</span>
       <p class="what">Ph.D. · UC Riverside</p>
-      <p class="detail">Network security research with Dr.&nbsp;Michalis Faloutsos (collaborated with Dr.&nbsp;Shaolei Ren); TA service (see <a href="{{ '/ta/' | relative_url }}">TA</a>).</p>
+      <p class="detail">Network security research with Dr.&nbsp;Michalis Faloutsos (collaborated with Dr.&nbsp;Shaolei Ren); teaching service (see <a href="{{ '/teaching/' | relative_url }}">Teaching</a>).</p>
     </li>
     <li>
       <span class="when">2019 – 2021</span>

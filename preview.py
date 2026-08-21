@@ -149,7 +149,7 @@ def build() -> None:
         ("research.md", "/research/", "research/index.html"),
         ("publications.md", "/publications/", "publications/index.html"),
         ("news.md", "/news/", "news/index.html"),
-        ("ta.md", "/ta/", "ta/index.html"),
+        ("teaching.md", "/teaching/", "teaching/index.html"),
         ("learning.md", "/learning/", "learning/index.html"),
     ]
 

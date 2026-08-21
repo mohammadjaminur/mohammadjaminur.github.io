@@ -1,20 +1,33 @@
 ---
 layout: default
-title: TA
-description: Graduate teaching assistant (TA) history at UC Riverside.
+title: Teaching
+description: Teaching experience — discussion sections, lab instruction, and guest lectures at UC Riverside.
 ---
 
 <div class="wrap wrap-wide">
-  <p class="kicker">TA</p>
-  <h1>Graduate TA · UC Riverside</h1>
-  <p class="lede">As a Ph.D. student, I have worked as a Graduate Teaching Assistant since Fall 2022.</p>
+  <p class="kicker">Teaching</p>
+  <h1>Teaching experience</h1>
+  <p class="lede">Graduate Teaching Assistant at UC Riverside since Fall 2022 — running discussion sections and lab instruction, and occasionally stepping in to guest lecture on deep learning topics.</p>
 
+  <h2>Course highlights</h2>
+  <ul class="highlight-list">
+    <li>
+      <strong><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</strong>
+      <p>Led weekly discussion sections on classic search — uninformed and informed search, A* search, and local search methods such as simulated annealing. Delivered a guest lecture on deep neural networks in the Summer 2026 offering.</p>
+    </li>
+    <li>
+      <strong><span class="course-code">CS 105</span> — Data Analysis Methods</strong>
+      <p>Ran lab instruction covering exploratory data analysis, k-nearest neighbors, clustering, PCA, gradient descent, and loss functions. Delivered guest lectures on deep neural networks and, in a second session, on generative models — GANs and autoencoders.</p>
+    </li>
+  </ul>
+
+  <h2>Appointments</h2>
   <ul class="term-list">
     <li>
       <p class="term">Summer 2026</p>
       <ul>
-        <li><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</li>
-        <li><span class="course-code">CS 105</span> — Data Analysis Methods</li>
+        <li><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence <em>(guest lecture: deep neural networks)</em></li>
+        <li><span class="course-code">CS 105</span> — Data Analysis Methods <em>(guest lectures: deep neural networks; GANs &amp; autoencoders)</em></li>
       </ul>
     </li>
     <li>

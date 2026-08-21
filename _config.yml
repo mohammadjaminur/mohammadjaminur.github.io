@@ -2,13 +2,13 @@ title: Mohammad Jaminur Islam
 description: Ph.D. student at UC Riverside — network security
 author: Mohammad Jaminur Islam
 email: misla056@ucr.edu
-baseurl: "/mji.io"
-url: ""
+baseurl: ""
+url: "https://mohammadjaminur.github.io"
 permalink: pretty
 
 scholar_url: "https://scholar.google.com/citations?user=0ZT0aVkAAAAJ&hl=en"
 cv_url: "https://drive.google.com/file/d/1a8QAdNPQhzNRK0rY1i3HS4DbHuGJDNhS/view?usp=sharing"
-github_url: "https://github.com/jami1005050"
+github_url: "https://github.com/mohammadjaminur"
 linkedin_url: "https://www.linkedin.com/in/mohammad-jaminur-islam-684a82b2/"
 
 markdown: kramdown

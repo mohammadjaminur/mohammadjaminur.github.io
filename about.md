@@ -49,7 +49,7 @@ description: Bio, education, awards, and experience for Mohammad Jaminur Islam.
     <li>
       <span class="when">Fall 2022 – Present</span>
       <p class="what">Graduate Research Assistant</p>
-      <p class="detail">UC Riverside · Network security (C2 detection) with Dr.&nbsp;Faloutsos; prior collaboration on Responsible AI with Dr.&nbsp;Ren. TA history is under <a href="{{ '/ta/' | relative_url }}">TA</a>.</p>
+      <p class="detail">UC Riverside · Network security (C2 detection) with Dr.&nbsp;Faloutsos; prior collaboration on Responsible AI with Dr.&nbsp;Ren. Teaching history is under <a href="{{ '/teaching/' | relative_url }}">Teaching</a>.</p>
     </li>
     <li>
       <span class="when">Fall 2019 – Spring 2021</span>
