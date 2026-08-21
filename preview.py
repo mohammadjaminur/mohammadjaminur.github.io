@@ -150,7 +150,6 @@ def build() -> None:
         ("publications.md", "/publications/", "publications/index.html"),
         ("news.md", "/news/", "news/index.html"),
         ("teaching.md", "/teaching/", "teaching/index.html"),
-        ("learning.md", "/learning/", "learning/index.html"),
     ]
 
     for src_name, url, dest_rel in pages:

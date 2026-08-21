@@ -19,6 +19,4 @@ description: Research themes — network security and Responsible AI.
       <p>In collaboration with Dr.&nbsp;Shaolei Ren: equity-aware and sustainable computing for AI infrastructure — spatial-temporal workload shifting for data centers, and measuring environmental footprints of generative AI inference across cloud and edge.</p>
     </li>
   </ul>
-
-  <p style="margin-top:1.5rem;color:var(--muted);">I also explore reinforcement learning, machine unlearning, and agentic system security — see <a href="{{ '/learning/' | relative_url }}">Learning</a>.</p>
 </div>
