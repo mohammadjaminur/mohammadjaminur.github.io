@@ -7,16 +7,22 @@ description: Research on selective network probing, C2 infrastructure, anomaly d
 <div class="wrap wrap-wide">
   <p class="kicker">Research</p>
   <h1>Research directions</h1>
-  <p class="lede">My main research area is network measurement and security. I use DNS history and server fingerprints to choose targets for active probing and identify likely C2 infrastructure. My earlier work covers anomaly detection in transportation and power systems, as well as the environmental and public-health costs of AI infrastructure. Paper titles, venues, and DOIs are listed on <a href="{{ '/publications/' | relative_url }}">Publications</a>.</p>
+  <p class="lede">My current Ph.D. research focuses on network measurement and security: I use DNS history and server fingerprints to choose targets for active probing and identify likely C2 infrastructure. During my M.S., I worked on anomaly detection in transportation and power systems. I have also studied the environmental and public-health costs of AI infrastructure. Paper titles, venues, and DOIs are listed on <a href="{{ '/publications/' | relative_url }}">Publications</a>.</p>
 
-  <h2>Network measurement &amp; security <span style="font-weight:500;color:var(--muted)">(with Dr.&nbsp;Michalis Faloutsos)</span></h2>
-  <p>The goal is to collect useful evidence without probing every host. I develop methods that rank hosts for follow-up measurements and anomaly detectors that distinguish attacks and operational incidents from normal changes in traffic or power data.</p>
+  <h2>Network measurement &amp; security <span style="font-weight:500;color:var(--muted)">(current Ph.D. research with Dr.&nbsp;Michalis Faloutsos)</span></h2>
+  <p>The goal is to collect useful evidence without probing every host. I develop methods that rank network infrastructure for follow-up measurements.</p>
 
   <ul class="project-groups">
     <li>
       <strong class="group-title">Using DNS history to prioritize probes for C2 infrastructure</strong>
       <p class="group-desc">I combine active and passive DNS history (aDNS and pDNS) with server-side fingerprints to rank hosts for follow-up probing. The system also records which DNS and fingerprint signals made each host suspicious. The aim is to find malware C2 infrastructure that blends into ordinary network activity. This project is ongoing, and the code is private.</p>
     </li>
+  </ul>
+
+  <h2>Anomaly detection in cyber-physical systems <span style="font-weight:500;color:var(--muted)">(M.S. research with Dr.&nbsp;Shameek Bhattacharjee, Western Michigan University)</span></h2>
+  <p>During my M.S., I worked on detectors that distinguish attacks and operational incidents from normal changes in transportation and power-system data. We also studied whether those detectors remain reliable when an attacker poisons their training data.</p>
+
+  <ul class="project-groups">
     <li>
       <strong class="group-title">Anomaly detection in smart systems <span class="group-note">(smart meters &amp; transportation)</span></strong>
       <p class="group-desc">This work covers two detection settings—transportation networks and power grids—and a shared security problem: whether the detectors still work after an attacker poisons their training data.</p>

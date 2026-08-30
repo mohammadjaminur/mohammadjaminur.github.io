@@ -14,7 +14,7 @@ description: Mohammad Jaminur Islam's teaching appointments, discussion sections
   <div class="course-block">
     <h3><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</h3>
     <p class="meta">Discussion sections · 7 terms, Fall 2022 – Summer 2026</p>
-    <p>Across seven terms, I led discussions on search and A*, adversarial games, constraint satisfaction, simulated annealing, Markov decision processes, reinforcement learning, and probabilistic reasoning. I spent the most time helping students work through <strong>search and constraint-satisfaction problems</strong>. The Summer 2026 course focused entirely on reinforcement learning, and I gave a guest lecture on deep neural networks.</p>
+    <p>Across seven terms, I led discussions spanning search algorithms and optimization (including A* and simulated annealing), adversarial games, constraint satisfaction, Markov decision processes, reinforcement learning, and probabilistic reasoning. The Summer 2026 course focused entirely on reinforcement learning, and I also gave a guest lecture on deep neural networks during that term.</p>
   </div>
 
   <div class="course-block">

@@ -16,7 +16,7 @@ description: Mohammad Jaminur Islam is a UC Riverside Ph.D. student studying net
       <p class="profile-pitch">I use DNS history, server fingerprints, and anomaly detection to find suspicious network infrastructure without scanning everything.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
-      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I combine active and passive DNS history with server fingerprints to identify likely malware command-and-control (C2) infrastructure and choose hosts for active probing. I also study anomaly detection in networks and cyber-physical systems. In earlier work with Dr.&nbsp;Shaolei Ren, I developed schedulers that account for the energy, water, carbon, and public-health costs of AI data centers.</p>
+      <p class="profile-bio">My current Ph.D. research, advised by Dr.&nbsp;Michalis Faloutsos, combines active and passive DNS history with server fingerprints to identify likely malware command-and-control (C2) infrastructure and choose hosts for active probing. During my M.S. at Western Michigan University, I worked with Dr.&nbsp;Shameek Bhattacharjee on anomaly detection in transportation and smart-grid systems. I have also worked with Dr.&nbsp;Shaolei Ren on schedulers that account for the energy, water, carbon, and public-health costs of AI data centers.</p>
       <p class="tag-row">
         <span class="tag">Network Measurement</span>
         <span class="tag">DNS &amp; Fingerprinting</span>
@@ -32,6 +32,10 @@ description: Mohammad Jaminur Islam is a UC Riverside Ph.D. student studying net
     <li>
       <strong>Network measurement &amp; security</strong>
       <p>Scanning every host is expensive. I use active and passive DNS history and server fingerprints to rank hosts, so active probes focus on infrastructure most likely to reveal malware C2 activity.</p>
+    </li>
+    <li>
+      <strong>Anomaly detection in cyber-physical systems <span style="font-weight:500;color:var(--muted)">(M.S. research with Dr.&nbsp;Shameek Bhattacharjee)</span></strong>
+      <p>At Western Michigan University, I developed and evaluated incident and attack detectors for transportation and smart-grid data, including settings where an attacker poisons the detector's training data.</p>
     </li>
     <li>
       <strong>Responsible AI <span style="font-weight:500;color:var(--muted)">(with Dr.&nbsp;Shaolei Ren)</span></strong>
@@ -91,7 +95,7 @@ description: Mohammad Jaminur Islam is a UC Riverside Ph.D. student studying net
   <ul class="highlight-list">
     <li>
       <strong>Discussion sections &amp; lab instruction</strong>
-      <p>For <span class="course-code">CS 170</span>, I led discussions on search and A* and, in Summer 2026, reinforcement learning. For <span class="course-code">CS 105</span>, I led labs on statistics, exploratory data analysis, k-NN, clustering, and unsupervised learning. I also gave guest lectures on deep neural networks, GANs, and autoencoders.</p>
+      <p>For <span class="course-code">CS 170</span> (Introduction to Artificial Intelligence), I led discussions on search and optimization, adversarial games, constraint satisfaction, Markov decision processes, reinforcement learning, and probabilistic reasoning. The Summer 2026 course focused on reinforcement learning, where I also gave a guest lecture on deep neural networks. For <span class="course-code">CS 105</span>, I led applied data-analysis labs and guest lectures on deep neural networks and generative models, including GANs and autoencoders.</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
