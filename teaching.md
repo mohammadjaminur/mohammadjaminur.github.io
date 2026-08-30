@@ -1,26 +1,26 @@
 ---
 layout: default
 title: Teaching
-description: Teaching experience, discussion sections, lab instruction, and guest lectures at UC Riverside.
+description: Mohammad Jaminur Islam's teaching appointments, discussion sections, lab instruction, and guest lectures at UC Riverside.
 ---
 
 <div class="wrap wrap-wide">
   <p class="kicker">Teaching</p>
   <h1>Teaching experience</h1>
-  <p class="lede">Graduate Teaching Assistant at UC Riverside since Fall 2022, running discussion sections and lab instruction across six courses, and twice invited to guest lecture on deep learning topics.</p>
+  <p class="lede">I have served as a Graduate Teaching Assistant for six courses at UC Riverside since Fall 2022. I have led discussion sections and labs and given guest lectures on deep neural networks and generative models.</p>
 
   <h2>Course highlights</h2>
 
   <div class="course-block">
     <h3><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</h3>
     <p class="meta">Discussion sections · 7 terms, Fall 2022 – Summer 2026</p>
-    <p>Standard offerings (Fall 2022 – Spring 2025) covered a classical AI curriculum, including search and A*, adversarial games, constraint satisfaction (including simulated annealing), MDPs, reinforcement learning, and probabilistic reasoning. My own sections leaned hardest on <strong>search and constraint satisfaction</strong>. The Summer 2026 offering was rebuilt entirely around reinforcement learning, capped with a guest lecture on deep neural networks.</p>
+    <p>Across seven terms, I led discussions on search and A*, adversarial games, constraint satisfaction, simulated annealing, Markov decision processes, reinforcement learning, and probabilistic reasoning. I spent the most time helping students work through <strong>search and constraint-satisfaction problems</strong>. The Summer 2026 course focused entirely on reinforcement learning, and I gave a guest lecture on deep neural networks.</p>
   </div>
 
   <div class="course-block">
     <h3><span class="course-code">CS 105</span> — Data Analysis Methods</h3>
     <p class="meta">Lab instruction · Summer 2026 &amp; Spring 2026</p>
-    <p>Weekly labs built a practical data-science toolkit, from statistics and exploratory data analysis to k-nearest neighbors, clustering, and unsupervised deep learning. Guest-lectured twice: on deep neural networks, and on generative models (GANs and autoencoders).</p>
+    <p>I led weekly labs on statistics, exploratory data analysis, k-nearest neighbors, clustering, and unsupervised deep learning. I also gave one guest lecture on deep neural networks and another on generative models, including GANs and autoencoders.</p>
   </div>
 
   <h2>Appointments</h2>
@@ -85,7 +85,7 @@ description: Teaching experience, discussion sections, lab instruction, and gues
     <li>
       <p class="term">Fall 2022</p>
       <ul>
-        <li><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence <em>(started as TA)</em></li>
+        <li><span class="course-code">CS 170</span> — Introduction to Artificial Intelligence</li>
       </ul>
     </li>
   </ul>

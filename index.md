@@ -2,21 +2,21 @@
 layout: default
 title: Home
 layout_class: home
-description: Ph.D. student at UC Riverside working on network measurement and security.
+description: Mohammad Jaminur Islam is a UC Riverside Ph.D. student studying network measurement, security, and anomaly detection.
 ---
 
 <div class="wrap wrap-wide">
   <section class="hero-card">
-    <p class="job-banner">Open to <strong>academic</strong> and <strong>industry</strong> roles, postdoctoral, <strong>AI Engineer</strong>, and <strong>Applied Scientist</strong> positions in network measurement, security, and trustworthy AI, available 2027. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
+    <p class="job-banner">I am seeking academic and industry research positions starting in 2027, including postdoctoral, <strong>AI Engineer</strong>, and <strong>Applied Scientist</strong> roles. My main areas are network measurement, security, and trustworthy AI. <a href="{{ site.cv_url }}" target="_blank" rel="noopener noreferrer">CV</a> · <a href="mailto:{{ site.email }}">Get in touch</a></p>
 
     <div class="profile">
     <img class="avatar avatar-lg" src="{{ '/profile.jpg' | relative_url }}" alt="Portrait of Mohammad Jaminur Islam" width="160" height="160">
     <div>
       <h1 class="profile-name">Mohammad Jaminur Islam</h1>
-      <p class="profile-pitch">I build network and control systems that turn data into informed decisions, for operational security, and for the cost of running them responsibly.</p>
+      <p class="profile-pitch">I use DNS history, server fingerprints, and anomaly detection to find suspicious network infrastructure without scanning everything.</p>
       <p class="profile-role">Ph.D. Student · Computer Science · UC Riverside</p>
 
-      <p class="profile-bio">I work on data-driven network measurement and security, including anomaly detection, and using DNS (aDNS, pDNS) and server fingerprinting to catch malware command-and-control (C2) traffic hiding in ordinary-looking activity (advised by Dr.&nbsp;Michalis Faloutsos). I've also worked on cost-aware spatial-temporal workload distribution that minimizes the environmental and public-health costs of AI data centers (with Dr.&nbsp;Shaolei Ren).</p>
+      <p class="profile-bio">Advised by Dr.&nbsp;Michalis Faloutsos, I combine active and passive DNS history with server fingerprints to identify likely malware command-and-control (C2) infrastructure and choose hosts for active probing. I also study anomaly detection in networks and cyber-physical systems. In earlier work with Dr.&nbsp;Shaolei Ren, I developed schedulers that account for the energy, water, carbon, and public-health costs of AI data centers.</p>
       <p class="tag-row">
         <span class="tag">Network Measurement</span>
         <span class="tag">DNS &amp; Fingerprinting</span>
@@ -31,11 +31,11 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <ul class="highlight-list">
     <li>
       <strong>Network measurement &amp; security</strong>
-      <p>Data-driven probing recommendation and anomaly detection, combining active/passive DNS (aDNS, pDNS) with server-side fingerprinting to explain likely maliciousness, including malware C2 traffic.</p>
+      <p>Scanning every host is expensive. I use active and passive DNS history and server fingerprints to rank hosts, so active probes focus on infrastructure most likely to reveal malware C2 activity.</p>
     </li>
     <li>
       <strong>Responsible AI <span style="font-weight:500;color:var(--muted)">(with Dr.&nbsp;Shaolei Ren)</span></strong>
-      <p>Cost-aware sustainable AI data centers, minimizing environmental and public-health costs, and environmental footprints of generative AI inference (cloud vs. edge).</p>
+      <p>Where and when an AI job runs changes its energy, water, carbon, and public-health costs. I have developed schedulers that use those differences and measured the cost of generative-AI inference in cloud and edge settings.</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/research/' | relative_url }}">Research directions →</a>
@@ -45,17 +45,17 @@ description: Ph.D. student at UC Riverside working on network measurement and se
     <li>
       <span class="venue-tag">ICCPS 2022 · Best Paper Nominee</span>
       <p class="pub-title">Anomaly-based Incident Detection in Large Scale Smart Transportation Systems</p>
-      <p class="pub-note">Large-scale anomaly detection for smart transportation systems.</p>
+      <p class="pub-note">A city-scale traffic detector that achieved about a 90% true-positive rate with a 3% false-positive rate.</p>
     </li>
     <li>
-      <span class="venue-tag">NeurIPS · CCAI Workshop</span>
+      <span class="venue-tag">NeurIPS 2024 · CCAI Workshop</span>
       <p class="pub-title">Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</p>
-      <p class="pub-note">Equity and sustainability in AI data-center operations.</p>
+      <p class="pub-note">A scheduler that shifts AI workloads across time and location without placing most of the environmental burden on one region.</p>
     </li>
     <li>
       <span class="venue-tag">ACM SIGMETRICS 2024</span>
       <p class="pub-title">Online Allocation with Replenishable Budgets: Worst Case and Beyond</p>
-      <p class="pub-note">Online allocation under replenishable budgets, at a flagship venue.</p>
+      <p class="pub-note">Algorithms for allocating a resource whose budget is replenished over time when future demand is unknown.</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/publications/' | relative_url }}">All publications →</a>
@@ -64,20 +64,24 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <table class="news-table">
     <tbody>
       <tr>
+        <td class="news-date">Ongoing</td>
+        <td class="news-body">Developing a system that combines DNS history and server fingerprints to prioritize active probes for likely C2 infrastructure.</td>
+      </tr>
+      <tr>
+        <td class="news-date">2026</td>
+        <td class="news-body">Two manuscripts are under review: one on the public-health cost of data-center load shifting and one on machine unlearning for self-training models.</td>
+      </tr>
+      <tr>
         <td class="news-date">2025</td>
-        <td class="news-body">Paper on generative AI inference footprints accepted at the ACM SIGMETRICS AI Crossroads workshop.</td>
+        <td class="news-body">Our comparison of generative-AI inference in cloud and edge settings was accepted at the ACM SIGMETRICS AI Crossroads workshop.</td>
       </tr>
       <tr>
         <td class="news-date">2024</td>
-        <td class="news-body">Equity-aware workload shifting for sustainable AI data centers accepted at the NeurIPS Climate Change AI workshop.</td>
+        <td class="news-body">Our work on equity-aware workload shifting for AI data centers was accepted at the NeurIPS Climate Change AI workshop.</td>
       </tr>
       <tr>
         <td class="news-date">2024</td>
-        <td class="news-body"><em>Online Allocation with Replenishable Budgets</em> published at ACM SIGMETRICS 2024.</td>
-      </tr>
-      <tr>
-        <td class="news-date">2022</td>
-        <td class="news-body">ICCPS 2022 Best Paper Nominee for anomaly-based incident detection in smart transportation systems.</td>
+        <td class="news-body">Our paper <em>Online Allocation with Replenishable Budgets</em> was published at ACM SIGMETRICS 2024.</td>
       </tr>
     </tbody>
   </table>
@@ -87,7 +91,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
   <ul class="highlight-list">
     <li>
       <strong>Discussion sections &amp; lab instruction</strong>
-      <p><span class="course-code">CS 170</span> (search &amp; A* in standard terms; reinforcement learning in the Summer 2026 offering) and <span class="course-code">CS 105</span> (statistics, EDA, k-NN, clustering, unsupervised learning), plus guest lectures on deep neural networks and generative models (GANs, autoencoders).</p>
+      <p>For <span class="course-code">CS 170</span>, I led discussions on search and A* and, in Summer 2026, reinforcement learning. For <span class="course-code">CS 105</span>, I led labs on statistics, exploratory data analysis, k-NN, clustering, and unsupervised learning. I also gave guest lectures on deep neural networks, GANs, and autoencoders.</p>
     </li>
   </ul>
   <a class="more-link" href="{{ '/teaching/' | relative_url }}">Teaching experience →</a>
