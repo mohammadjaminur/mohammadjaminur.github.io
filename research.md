@@ -14,30 +14,30 @@ description: Research directions, network measurement and security, and Responsi
 
   <ul class="project-groups">
     <li>
-      <strong class="group-title">Understanding C2 infrastructure from DNS &amp; domain history to optimize active probing</strong>
-      <p class="group-desc">Combines active and passive DNS history (aDNS, pDNS) with server-side fingerprinting to prioritize which infrastructure is worth actively probing next, and to explain why a host is likely malicious, including malware command-and-control (C2) traffic disguised as ordinary activity. Ongoing; the codebase isn't public.</p>
+      <strong class="group-title">Understanding C2 infrastructure via DNS &amp; domain history, to optimize active probing</strong>
+      <p class="group-desc">Combines active and passive DNS history (aDNS, pDNS) with server-side fingerprinting to flag likely-malicious infrastructure, including C2 traffic disguised as ordinary activity. Ongoing, not public.</p>
     </li>
     <li>
       <strong class="group-title">Anomaly detection in smart autonomous systems <span class="group-note">(smart meter &amp; smart transportation)</span></strong>
-      <p class="group-desc">Three projects, spanning transportation networks, power grids, and the poisoning-robustness question underneath both.</p>
+      <p class="group-desc">Three projects: transportation networks, power grids, and the poisoning-robustness question underneath both.</p>
       <ul class="sub-projects">
         <li>
           <p class="sub-title">Smart transportation incident detection</p>
-          <p class="sub-note">City-scale anomaly detection reaching about 90% true-positive detection at a 3% false-positive rate (ACM/IEEE ICCPS 2022, Best Paper Nominee), later extended to scale across much larger city networks (ACM TCPS 2024).</p>
+          <p class="sub-note">City-scale anomaly detection at ~90% true-positive / 3% false-positive (ICCPS 2022, Best Paper Nominee), later scaled to larger city networks (TCPS 2024).</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/ICCPS22" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
         </li>
         <li>
           <p class="sub-title">Smart-grid attack detection under data poisoning</p>
-          <p class="sub-note">Keeps smart-grid anomaly detection reliable even when an attacker is actively poisoning the training data.</p>
+          <p class="sub-note">Keeps smart-grid anomaly detection reliable under active data-poisoning attacks.</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/CPSS22" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
         </li>
         <li>
           <p class="sub-title">Poisoning attacks against quantile-regression anomaly detectors</p>
-          <p class="sub-note">Studies how data-poisoning attacks degrade quantile-regression-based anomaly detection across cyber-physical systems generally, and what makes a detector robust again.</p>
+          <p class="sub-note">Studies how poisoning attacks degrade quantile-regression anomaly detectors across CPS domains, and what makes them robust again.</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/quantile-poison-iwspa25" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
@@ -53,28 +53,25 @@ description: Research directions, network measurement and security, and Responsi
   <ul class="project-groups">
     <li>
       <strong class="group-title">Online learning for resource allocation</strong>
-      <p class="group-desc">An online allocator for resources that replenish over time, paired with a learning-augmented variant that keeps most of a trained predictor's everyday performance while staying anchored to a worst-case-safe strategy. Applied below to two data-center cost problems and one AI-deployment question.</p>
-      <ul class="resource-links">
-        <li><a href="https://github.com/mohammadjaminur/replenish-opt" target="_blank" rel="noopener noreferrer">Code</a></li>
-      </ul>
+      <p class="group-desc">An online allocator for resources that replenish over time, with a learning-augmented variant that keeps most of a trained predictor's everyday performance while staying anchored to a worst-case-safe fallback (<a href="https://github.com/mohammadjaminur/replenish-opt" target="_blank" rel="noopener noreferrer">code</a>). Applied below to two data-center cost problems and one AI-deployment question.</p>
       <ul class="sub-projects">
         <li>
           <p class="sub-title">Datacenter environmental-cost load balancing <span class="group-note">(energy, water, carbon)</span></p>
-          <p class="sub-note">Shifts AI data-center workloads across time and location to cut environmental costs without concentrating the burden on any one region; also mentored an undergraduate project quantifying the water footprint of AI computing to support this line of work.</p>
+          <p class="sub-note">Shifts AI data-center workloads across time and location to cut environmental costs without concentrating the burden on one region.</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/equishift-neurips2024-ccai" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
         </li>
         <li>
           <p class="sub-title">Datacenter public-health &amp; energy-cost load balancing</p>
-          <p class="sub-note">GRU forecasters for demand, price, water use, and carbon intensity feed a convex scheduler that routes datacenter workload to minimize water and carbon costs and their public-health impact, closing most of the gap to a perfect-foresight baseline. Under review.</p>
+          <p class="sub-note">GRU forecasters for demand, price, water, and carbon feed a convex scheduler that shifts workload to cut water, carbon, and health costs, closing most of the gap to a perfect-foresight baseline. Under review.</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/greenload-forecast" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
         </li>
         <li>
           <p class="sub-title">Benchmarking LLM inference on cloud vs. edge</p>
-          <p class="sub-note">Benchmarks the latency, power draw, and energy cost of six generative models (text, image, audio, OCR) across GPU tiers, to advocate for deliberate, well-informed AI deployment rather than defaulting to the biggest available hardware.</p>
+          <p class="sub-note">Benchmarks latency, power draw, and energy cost across six generative models and GPU tiers, to show whether bigger hardware is actually the greener choice.</p>
           <ul class="resource-links">
             <li><a href="https://github.com/mohammadjaminur/LLM_benchmarking" target="_blank" rel="noopener noreferrer">Code</a></li>
           </ul>
