@@ -33,11 +33,23 @@ description: Featured and full publications for Mohammad Jaminur Islam.
     </li>
   </ul>
 
+  <h2>Under review</h2>
+  <ol class="pub-list">
+    <li>
+      <strong>Balancing the Public Health Impact of Data Centers via Geographical Load Shifting</strong><br>
+      Mohammad Jaminur Islam et al. · <em>IEEE Transactions on Sustainable Computing</em>, under review (submitted January 2026)
+    </li>
+    <li>
+      <strong>PALMU: Correcting the Hidden Cost of Forgetting in Self-Training Models</strong><br>
+      Saminur Islam, Zhen Gao, Mohammad Jaminur Islam, Christopher Lynch · <em>NeurIPS</em>, under review
+    </li>
+  </ol>
+
   <h2>All publications</h2>
   <ol class="pub-list">
     <li>
       <strong>Securing Blockchain Systems: A Layer-Oriented Survey of Threats, Vulnerability Taxonomy, and Detection Methods</strong><br>
-      Mohammad Jaminur Islam, Saminur Islam, Mahmud Hossain, Shahid Noor, S. M. Riazul Islam · <em>Future Internet</em>, 2025
+      Mohammad Jaminur Islam, Saminur Islam, Mahmud Hossain, Shahid Noor, S. M. Riazul Islam · <em>Future Internet</em>, vol. 17, no. 5, Art. 205, 2025
     </li>
     <li>
       <strong>A Case Study of Environmental Footprints for Generative AI Inference: Cloud versus Edge</strong><br>
@@ -45,7 +57,7 @@ description: Featured and full publications for Mohammad Jaminur Islam.
     </li>
     <li>
       <strong>Poisoning Attacks against Quantile L1 Regression in CPS Anomaly Detection Frameworks</strong><br>
-      Mohammad Jaminur Islam, Richard T. Meyer, Shameek Bhattacharjee · <em>IWSPA</em>, 2025
+      Mohammad Jaminur Islam, Richard T. Meyer, Shameek Bhattacharjee · <em>IWSPA</em>, 2025 · <a href="https://doi.org/10.1145/3716815.3729009" target="_blank" rel="noopener noreferrer">DOI</a>
     </li>
     <li>
       <strong>Equity-Aware Spatial-Temporal Workload Shifting for Sustainable AI Data Centers</strong><br>
@@ -57,19 +69,19 @@ description: Featured and full publications for Mohammad Jaminur Islam.
     </li>
     <li>
       <strong>Scalable Pythagorean Mean-based Incident Detection in Smart Transportation Systems</strong><br>
-      Mohammad Jaminur Islam et al. · <em>ACM TCPS</em>, 2024
+      Mohammad Jaminur Islam, J. P. Talusan, S. Bhattacharjee, F. Tiausas, A. Dubey, K. Yasumoto, S. K. Das · <em>ACM Transactions on Cyber-Physical Systems</em>, vol. 8, no. 2, Art. 20, 2024 · <a href="https://doi.org/10.1145/3603381" target="_blank" rel="noopener noreferrer">DOI</a>
     </li>
     <li>
       <strong>A Survey on Consensus Algorithms in Blockchain-Based Applications</strong><br>
-      Saminur Islam, Mohammad Jaminur Islam et al. · <em>IEEE Access</em>, 2023
+      Saminur Islam, Mohammad Jaminur Islam, Mahmud Hossain, Shahid Noor, Ki-Sik Kwak, S. M. Riazul Islam · <em>IEEE Access</em>, vol. 11, pp. 39066–39082, 2023 · <a href="https://doi.org/10.1109/ACCESS.2023.3267047" target="_blank" rel="noopener noreferrer">DOI</a>
     </li>
     <li>
       <strong>Anomaly-based Incident Detection in Large Scale Smart Transportation Systems</strong><br>
-      Mohammad Jaminur Islam et al. · <em>ACM/IEEE ICCPS</em>, 2022 <span class="badge">Best Paper Nominee</span>
+      Mohammad Jaminur Islam, J. P. Talusan, S. Bhattacharjee, F. Tiausas, S. M. Vazirizade, A. Dubey, K. Yasumoto, S. K. Das · <em>ACM/IEEE ICCPS</em>, 2022 <span class="badge">Best Paper Nominee</span> · <a href="https://doi.org/10.1109/ICCPS54341.2022.00026" target="_blank" rel="noopener noreferrer">DOI</a>
     </li>
     <li>
       <strong>Robust Anomaly-based Attack Detection in Smart Grids under Data Poisoning Attacks</strong><br>
-      Shameek Bhattacharjee, Mohammad Jaminur Islam, Sahar Abedzadeh · <em>ACM CPSS</em>, 2022
+      Shameek Bhattacharjee, Mohammad Jaminur Islam, Sahar Abedzadeh · <em>ACM CPSS</em>, pp. 3–14, 2022 · <a href="https://doi.org/10.1145/3494107.3522778" target="_blank" rel="noopener noreferrer">DOI</a>
     </li>
   </ol>
 </div>

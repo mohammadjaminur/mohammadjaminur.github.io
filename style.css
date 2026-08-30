@@ -379,13 +379,15 @@ a:hover { color: var(--ink); }
 }
 
 .resource-links {
-  list-style: disc;
-  margin: 0.65rem 0 0;
-  padding-left: 1.2rem;
-  color: var(--muted);
-  font-size: 0.95rem;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 1rem;
+  margin: 0.5rem 0 0;
+  padding: 0;
+  font-size: 0.9rem;
 }
-.resource-links li { border: 0; padding: 0.2rem 0; }
+.resource-links li { border: 0; padding: 0; }
 .resource-links a { font-weight: 600; }
 
 .venue-tag {

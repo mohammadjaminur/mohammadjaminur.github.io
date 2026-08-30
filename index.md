@@ -38,7 +38,7 @@ description: Ph.D. student at UC Riverside working on network measurement and se
       <p>Cost-aware sustainable AI data centers, minimizing environmental and public-health costs, and environmental footprints of generative AI inference (cloud vs. edge).</p>
     </li>
   </ul>
-  <a class="more-link" href="{{ '/research/' | relative_url }}">Research themes →</a>
+  <a class="more-link" href="{{ '/research/' | relative_url }}">Research directions →</a>
 
   <h2>Selected publications</h2>
   <ul class="featured-list">
